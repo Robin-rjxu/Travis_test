@@ -58,8 +58,8 @@ history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
     user: Robin-rjxu
-    repertory: Robin-rjxu.github.io
-    branch: master
+    repertory: Travis_test
+    branch: write
 
 # Comment
 comment:
