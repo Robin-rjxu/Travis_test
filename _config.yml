@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Robin's Wiki
+title: Travis_test
 subtitle: Focus and summarize
 description: Keep absorbing knowledge
 author: Robin-rjxu
@@ -123,4 +123,4 @@ theme: Wikitten
 deploy:
   type: git
   repository: https://github.com/Robin-rjxu/Travis_test.git
-  branch: master
+  branch: gh-pages
