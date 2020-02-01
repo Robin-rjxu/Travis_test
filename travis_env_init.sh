@@ -32,7 +32,7 @@ sed -i'' "s~git@github.com:~https://${GIT_REPO_TOKEN}@github.com/~" _config.yml
 
 
 theme_config_file="themes/Wikitten/_config.yml"
-cp "${theme_config_file}.example" "${theme_config_file}"
+# cp "${theme_config_file}.example" "${theme_config_file}"
 # Set Wikitten theme config
 
 echo "Hexo environment pre install complete OK."
