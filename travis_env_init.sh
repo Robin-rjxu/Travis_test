@@ -19,6 +19,8 @@ npm --version
 echo "Hexo environment pre install start."
 echo "${__COMMENTS__}"
 
+npm cache clear
+npm install --no-optional
 npm install -g gulp
 npm install -g hexo-cli
 npm install hexo --save
