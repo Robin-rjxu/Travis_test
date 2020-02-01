@@ -14,12 +14,6 @@
     "version": "*"
   },
   "dependencies": {
-    "gulp": "*",
-    "gulp-clean-css": "*",
-    "gulp-htmlclean": "*",
-    "gulp-htmlmin": "*",
-    "gulp-imagemin": "*",
-    "gulp-uglify": "*",
     "hexo": "*",
     "hexo-autonofollow": "*",
     "hexo-deployer-git": "*",
